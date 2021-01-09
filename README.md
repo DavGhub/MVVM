@@ -29,4 +29,4 @@ Simple Login form using MVVM architecture pattern, Data binding, and LiveData.
 
 # Author
 
-Davit Mehrabyan [LinkedIn Profile](www.linkedin.com/in/davit-mehrabyan)
+Davit Mehrabyan [LinkedIn Profile](https://www.linkedin.com/in/davit-mehrabyan/)
